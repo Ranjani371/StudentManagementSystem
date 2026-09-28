@@ -1,0 +1,7 @@
+123,Yazhan,23,CSE
+124,Nishant,24,Finance
+126,Sivani,20,Math
+127,Tharshini,25,Python
+128,Kali,24,Social
+129,Uma,28,AI
+122,kannan,23,Blockchain
